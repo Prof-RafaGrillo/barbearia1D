@@ -20,7 +20,9 @@ p{
 
 #conteudo{
     display: flex;
+    padding: 10px;
 }
 #beneficios{
     width:40%
+
 }
